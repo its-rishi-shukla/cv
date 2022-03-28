@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: Courier New;
+    background-color: #F4FCD9;
+}
+h1{
+  margin: 0;
+  font-size: 50px;
+}
+.top-container{
+  position: relative;
+
+  padding-top:   100px;
+}
+.bottom-cloud{
+  position: absolute;
+}
+.top-cloud{
+  position: relative;
+  right: -350px;
+  top: 25px;
+}
+/* .skill-row{
+  height: 50em;
+
+} */
